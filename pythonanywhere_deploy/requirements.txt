@@ -1,0 +1,43 @@
+# KPI GPT RAG Model Requirements - PythonAnywhere Optimized
+# Essential packages for PythonAnywhere deployment
+
+# Web Framework - Compatible with PythonAnywhere
+Flask==3.0.0
+Werkzeug==3.0.1
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+click==8.1.7
+itsdangerous==2.1.2
+
+# Core ML/AI Libraries - PythonAnywhere compatible versions
+groq
+langchain==0.1.0
+langchain-community==0.0.13
+sentence-transformers==2.2.2
+chromadb==0.4.15
+
+# Text Processing
+tiktoken==0.5.2
+PyPDF2==3.0.1
+
+# Data Handling - Stable versions for PythonAnywhere
+pandas==2.0.3
+numpy==1.24.3
+
+# Environment and Configuration
+python-dotenv==1.0.0
+
+# Utility Libraries
+tqdm==4.66.1
+requests==2.31.0
+
+# HTTP Client
+httpx==0.25.2
+
+# Additional dependencies that might be needed
+typing-extensions==4.8.0
+pydantic==2.5.2
+pydantic-core==2.14.5
+
+# Note: Some packages may auto-install with main dependencies
+# This list focuses on core requirements for PythonAnywhere

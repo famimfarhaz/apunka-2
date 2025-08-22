@@ -1,0 +1,48 @@
+
+# KPI GPT cPanel Deployment Instructions
+
+## 📋 Pre-deployment Checklist:
+1. ✅ Ensure your cPanel supports Python 3.8+
+2. ✅ Have your Groq API key ready
+3. ✅ Backup any existing website data
+
+## 🚀 Deployment Steps:
+
+### Step 1: Upload Files
+1. Login to cPanel
+2. Go to File Manager
+3. Navigate to public_html (or your domain's root directory)
+4. Upload all files from this package
+5. Extract if uploaded as ZIP
+
+### Step 2: Setup Python Application
+1. In cPanel, go to "Python App" or "Setup Python App"
+2. Click "Create Application"
+3. Choose Python version (3.8+ recommended)
+4. Set Application Root to your domain directory
+5. Set Application URL to your domain
+6. Set Application startup file to: app.wsgi
+7. Set Application Entry Point to: application
+
+### Step 3: Install Dependencies
+1. In Python App settings, open "Virtual Environment"
+2. Run: pip install -r requirements_cpanel.txt
+
+### Step 4: Configure Environment Variables
+1. In Python App, go to Environment Variables
+2. Add: GROQ_API_KEY = your_groq_api_key_here
+3. Add other variables from .env.example as needed
+
+### Step 5: Test Application
+1. Visit your domain
+2. Check if the KPI GPT interface loads
+3. Test a sample query
+
+## 🔧 Troubleshooting:
+- Check Error Logs in cPanel
+- Ensure all dependencies are installed
+- Verify Python version compatibility
+- Check file permissions (644 for files, 755 for directories)
+
+## 📞 Need Help?
+Contact your hosting provider for Python/Flask support if issues persist.

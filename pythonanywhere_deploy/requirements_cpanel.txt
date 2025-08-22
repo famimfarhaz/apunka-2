@@ -1,0 +1,34 @@
+# KPI GPT RAG Model Requirements - cPanel Optimized
+# Only essential packages for production deployment
+
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+click==8.1.7
+itsdangerous==2.1.2
+
+# Core ML/AI Libraries
+groq
+langchain
+langchain-community
+sentence-transformers
+chromadb
+
+# Text Processing
+tiktoken
+PyPDF2
+
+# Data Handling (Fixed versions for stability)
+pandas==2.1.4
+numpy==1.24.4
+
+# Environment and Configuration
+python-dotenv
+
+# Utility Libraries
+tqdm
+requests
+
+# Note: gunicorn removed as cPanel uses its own WSGI server
