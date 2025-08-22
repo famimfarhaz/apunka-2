@@ -32,3 +32,6 @@ requests==2.31.0
 
 # Production Server
 gunicorn==21.2.0
+
+# Streamlit Application
+streamlit==1.28.1
