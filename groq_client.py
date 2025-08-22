@@ -94,35 +94,59 @@ class RAGGenerator:
         self.groq_client = groq_client
         
     def create_rag_prompt(self, query: str, retrieved_docs: List[Dict[str, Any]]) -> str:
-        """Create a RAG prompt with query and retrieved documents"""
+        """Create an enhanced RAG prompt with query and retrieved documents"""
         
-        # System prompt for KPI GPT
-        system_prompt = """You are KPI GPT, an AI assistant specifically designed for Khulna Polytechnic Institute (KPI). You have access to comprehensive information about the institute including departments, teachers, staff, students, facilities, and policies.
+        # Enhanced system prompt for KPI GPT
+        system_prompt = """You are KPI GPT, a specialized AI assistant for Khulna Polytechnic Institute (KPI). You have extensive knowledge about the institute and can answer ANY question about:
 
-Your role is to:
-1. Provide accurate and helpful information about KPI
-2. Answer queries about departments, teachers, students, and institute facilities
-3. Help users find contact information and departmental details
-4. Provide information about clubs, activities, and academic programs
-5. Be friendly, professional, and informative
+🏫 KHULNA POLYTECHNIC INSTITUTE (KPI) EXPERTISE:
+• Teachers, instructors, staff, and officials (names, contacts, departments)
+• Departments: Computer, Civil, Electrical, Electronics, Mechanical, Power, RAC, etc.
+• Student information, class captains, and academic details
+• Institute facilities, clubs, activities (BNCC, Rover Scout, Debate Club, etc.)
+• Contact information (phone numbers, emails, addresses)
+• Policies, procedures, and general institute information
+• Principal and administrative details
 
-Always base your responses on the provided context and clearly indicate if you don't have sufficient information to answer a query."""
+📋 YOUR CAPABILITIES:
+✓ Find specific people by name (exact or partial matches)
+✓ Provide contact details (phones, emails) 
+✓ Explain roles and designations
+✓ List department members
+✓ Answer about any aspect of KPI
+✓ Handle various question formats and styles
 
-        # Context from retrieved documents
-        context = "\n\n".join([
-            f"Section: {doc['metadata']['section']}\nContent: {doc['content']}"
-            for doc in retrieved_docs
-        ])
+🎯 RESPONSE GUIDELINES:
+• Answer directly and comprehensively
+• Include specific details like phone numbers, emails when available
+• If asking about a person, provide their full details
+• Use the context information to give accurate answers
+• Be helpful, friendly, and professional
+• If information is incomplete, say what you know and acknowledge limitations"""
+
+        # Context from retrieved documents with better formatting
+        context_sections = []
+        for i, doc in enumerate(retrieved_docs, 1):
+            section = doc.get('metadata', {}).get('section', 'Unknown')
+            content = doc.get('content', '').strip()
+            similarity = doc.get('similarity_score', 0)
+            
+            context_sections.append(f"""--- CONTEXT {i} (Section: {section}, Relevance: {similarity:.3f}) ---
+{content}""")
         
-        # Create the full prompt
+        context = "\n\n".join(context_sections)
+        
+        # Create the enhanced full prompt
         full_prompt = f"""{system_prompt}
 
-Context Information:
+=== RELEVANT CONTEXT INFORMATION ===
 {context}
 
-User Query: {query}
+=== USER QUESTION ===
+{query}
 
-Based on the context provided above, please provide a comprehensive and accurate answer to the user's query about Khulna Polytechnic Institute. If the information is not available in the context, please state that clearly."""
+=== INSTRUCTIONS ===
+Using the context information above, provide a detailed and accurate answer about Khulna Polytechnic Institute. Extract all relevant information from the context to answer the user's question completely. Include specific details like names, phone numbers, emails, designations, and departments when available."""
 
         return full_prompt
     

@@ -41,7 +41,7 @@ class KPIGPTRagSystem:
                  groq_model: str = "llama3-8b-8192",
                  chunk_size: int = 1000,
                  chunk_overlap: int = 200,
-                 max_retrieval_results: int = 5):
+                 max_retrieval_results: int = 8):  # Increased for better coverage
         
         self.data_file = data_file
         self.db_path = db_path
@@ -208,139 +208,116 @@ class KPIGPTRagSystem:
             yield f"Sorry, I encountered an error: {str(e)}"
     
     def _section_filter_for_query(self, query: str) -> Optional[Dict[str, Any]]:
-        """Return a Chroma where filter based on keywords in query to target sections"""
-        q = query.lower()
-        if any(word in q for word in ['captain', 'class captain', 'class captains']):
-            return {'section': 'class_captains'}
-        if any(word in q for word in ['teacher', 'instructor', 'faculty']):
-            return {'section': 'teachers'}
-        if any(word in q for word in ['official', 'staff']):
-            return {'section': 'officials'}
-        # Handle both correct spelling "principal" and common typo "principle"
-        if any(word in q for word in ['principal', 'principle', 'head of institute']):
-            return {'section': 'principal'}
-        if any(word in q for word in ['club', 'bncc', 'rover', 'scout', 'debate']):
-            return {'section': 'clubs'}
-        # If query contains a person name (capitalized words), likely looking for teachers
-        words = q.split()
-        if len(words) >= 2 and any(word.strip().capitalize() in ['Julekha', 'Koli', 'Akter'] for word in words):
-            return {'section': 'teachers'}
+        """NO FILTERING - Let Groq handle all queries without restrictions"""
+        # Removed all keyword-based filtering to let Groq handle everything
         return None
 
     def _retrieve_with_expansion(self, user_query: str) -> List[Dict[str, Any]]:
-        """Retrieve documents with automatic query expansion for better results"""
+        """Smart universal retrieval - works for any query without restrictions"""
         try:
-            # Get section filter for the query
-            section_filter = self._section_filter_for_query(user_query)
+            logger.info(f"Retrieving documents for: '{user_query}'")
             
-            # Special handling for principal queries - prioritize section filtering
-            if section_filter and section_filter.get('section') == 'principal':
-                logger.info("Detected principal query, using section filtering...")
-                retrieved_docs = self.vector_db.search_similar(
-                    query=user_query,
-                    n_results=self.max_retrieval_results,
-                    where=section_filter
-                )
-                if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.7:
-                    return retrieved_docs
-                
-                # If section filtering doesn't work well, try direct search
-                logger.info("Section filtering didn't work, trying direct principal search...")
-                principal_queries = [
-                    "principal Sheikh Mustafizur Rahman",
-                    "Sheikh Mustafizur Rahman principal KPI",
-                    "head of institute principal"
+            all_results = []
+            seen_content = set()
+            
+            # Primary search - Direct semantic search
+            logger.info("Performing primary semantic search...")
+            primary_results = self.vector_db.search_similar(
+                query=user_query,
+                n_results=self.max_retrieval_results * 2,  # Get more initially
+                where=None  # No filtering!
+            )
+            
+            # Add primary results
+            for result in primary_results:
+                content_hash = hash(result['content'])
+                if content_hash not in seen_content:
+                    result['search_method'] = 'primary_semantic'
+                    all_results.append(result)
+                    seen_content.add(content_hash)
+            
+            # Secondary searches - Individual query words
+            query_words = [word.strip() for word in user_query.replace('?', '').split() 
+                          if len(word.strip()) > 2 and word.strip().lower() not in 
+                          ['who', 'what', 'when', 'where', 'how', 'tell', 'about', 'the', 'and', 'or']]
+            
+            logger.info(f"Trying individual word searches for: {query_words[:4]}")
+            for word in query_words[:4]:  # Try first 4 meaningful words
+                try:
+                    word_results = self.vector_db.search_similar(
+                        query=word,
+                        n_results=4,
+                        where=None
+                    )
+                    
+                    for result in word_results:
+                        content_hash = hash(result['content'])
+                        if content_hash not in seen_content:
+                            result['search_method'] = f'word_search_{word}'
+                            all_results.append(result)
+                            seen_content.add(content_hash)
+                            
+                except Exception as e:
+                    logger.debug(f"Word search failed for '{word}': {e}")
+                    continue
+            
+            # If we still don't have enough results, try broader searches
+            if len(all_results) < 5:
+                logger.info("Expanding search with broader terms...")
+                broad_searches = [
+                    "instructor teacher",
+                    "staff member", 
+                    "department faculty",
+                    "contact information",
+                    "chemistry physics",
+                    "non-tech"
                 ]
                 
-                for pq in principal_queries:
-                    results = self.vector_db.search_similar(pq, n_results=self.max_retrieval_results)
-                    if results and results[0]['similarity_score'] > 0.2:
-                        logger.info(f"Found principal info using direct search: {pq}")
-                        return results
+                for broad_term in broad_searches:
+                    try:
+                        broad_results = self.vector_db.search_similar(
+                            query=broad_term,
+                            n_results=2,
+                            where=None
+                        )
+                        
+                        for result in broad_results:
+                            content_hash = hash(result['content'])
+                            if content_hash not in seen_content:
+                                result['search_method'] = f'broad_search_{broad_term.replace(" ", "_")}'
+                                all_results.append(result)
+                                seen_content.add(content_hash)
+                                
+                    except Exception as e:
+                        logger.debug(f"Broad search failed for '{broad_term}': {e}")
+                        continue
             
-            # If the query targets class_captains, try section injection
-            if section_filter and section_filter.get('section') == 'class_captains':
-                section_docs = self._inject_section_docs('class_captains')
-                if section_docs:
-                    return section_docs
+            # Sort by similarity score (higher is better)
+            all_results.sort(key=lambda x: x.get('similarity_score', 0), reverse=True)
             
-            # For person queries (but not principal queries), try expanded searches
-            if self._is_person_query(user_query) and not any(word in user_query.lower() for word in ['principal', 'principle']):
-                logger.info("Detected person query, trying expanded searches...")
-                expanded_queries = self._generate_person_queries(user_query)
-                
-                best_results = None
-                best_match_score = -999
-                
-                for expanded_query in expanded_queries:
-                    results = self.vector_db.search_similar(
-                        query=expanded_query,
-                        n_results=self.max_retrieval_results
-                    )
-                    
-                    # Check if results contain the person's name
-                    for result in results:
-                        if self._contains_person_name(result['content'], user_query):
-                            logger.info(f"Found person using expanded query: {expanded_query}")
-                            return results[:self.max_retrieval_results]
-                    
-                    # Store the best results even if name not found (for fallback)
-                    if results and results[0]['similarity_score'] > best_match_score:
-                        best_results = results
-                        best_match_score = results[0]['similarity_score']
-                
-                # If we found results but no exact name match, use best results
-                if best_results and best_match_score > -0.7:
-                    logger.info(f"Using best expanded search results (score: {best_match_score:.3f})")
-                    return best_results[:self.max_retrieval_results]
+            # Return top results - give Groq plenty of context
+            final_results = all_results[:self.max_retrieval_results * 3]  # More context for Groq
             
-            # First try the original query (targeting likely section if applicable)
-            retrieved_docs = self.vector_db.search_similar(
-                query=user_query,
-                n_results=self.max_retrieval_results,
-                where=section_filter
-            )
+            if final_results:
+                scores_str = ', '.join([f"{r.get('similarity_score', 0):.3f}" for r in final_results[:5]])
+                logger.info(f"Retrieved {len(final_results)} documents with similarity scores: [{scores_str}]")
+            else:
+                logger.warning("No documents retrieved!")
             
-            # If we find good matches (high similarity), return them
-            if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.6:
-                return retrieved_docs
-            
-            # Check if this looks like a person name query
-            if self._is_person_query(user_query):
-                expanded_queries = self._generate_person_queries(user_query)
-                
-                all_results = {}
-                for expanded_query in expanded_queries:
-                    results = self.vector_db.search_similar(
-                        query=expanded_query,
-                        n_results=self.max_retrieval_results
-                    )
-                    
-                    # Check if results contain the person's name
-                    for result in results:
-                        if self._contains_person_name(result['content'], user_query):
-                            # Found a match! Use this result
-                            return results[:self.max_retrieval_results]
-                    
-                    # Store best results from each query
-                    if results and results[0]['similarity_score'] > all_results.get('best_score', -1.0):
-                        all_results['best_results'] = results
-                        all_results['best_score'] = results[0]['similarity_score']
-                
-                # Return best expanded results if available
-                if 'best_results' in all_results:
-                    return all_results['best_results']
-            
-            # Return original results as fallback
-            return retrieved_docs
+            return final_results
             
         except Exception as e:
-            logger.error(f"Error in query expansion: {e}")
+            logger.error(f"Error in retrieval: {e}")
             # Fallback to simple search
-            return self.vector_db.search_similar(
-                query=user_query,
-                n_results=self.max_retrieval_results
-            )
+            try:
+                return self.vector_db.search_similar(
+                    query=user_query,
+                    n_results=self.max_retrieval_results,
+                    where=None
+                )
+            except Exception as fallback_error:
+                logger.error(f"Fallback search also failed: {fallback_error}")
+                return []
     
     def _is_person_query(self, query: str) -> bool:
         """Check if query looks like it's asking about a person"""
