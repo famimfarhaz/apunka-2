@@ -8,6 +8,20 @@ Streamlit web application for the KPI GPT RAG system.
 import streamlit as st
 import time
 import logging
+import os
+import sys
+
+# Fix for ChromaDB in Streamlit Cloud
+import sqlite3
+
+# Patch sqlite3 for ChromaDB compatibility
+if hasattr(sqlite3, 'version') and sqlite3.version.startswith('2.'):
+    try:
+        import pysqlite3 as sqlite3
+        sys.modules['sqlite3'] = sqlite3
+    except ImportError:
+        pass
+
 from kpi_gpt_rag import create_kpi_rag_system
 
 # Configure logging
