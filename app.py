@@ -118,6 +118,11 @@ def index():
 def system_status():
     """Get system status and information"""
     try:
+        # Failsafe: If system is not initialized and not currently initializing, start it
+        if rag_system is None and initialization_status['status'] not in ['initializing', 'error']:
+            logger.info("Failsafe: Starting background initialization from status check")
+            start_background_initialization()
+            
         if rag_system is None:
             return jsonify(initialization_status)
         
@@ -288,12 +293,9 @@ def reset_system():
             'message': f'Error: {str(e)}'
         })
 
-# Flask startup hook
-@app.before_first_request
-def startup():
-    """Initialize RAG system on first request"""
-    logger.info("First request received - starting background initialization")
-    start_background_initialization()
+# Flask startup hook - Removed for Flask 3.0 compatibility
+# @app.before_first_request was deprecated and removed in Flask 3.0
+# Background initialization now handled in production startup section
 
 # Production startup
 def create_app():
@@ -306,10 +308,16 @@ def create_app():
     return app
 
 # For production servers (like Render)
-if __name__ != '__main__':
-    # This runs when imported by gunicorn/other WSGI servers
-    logger.info("Starting KPI GPT in production mode...")
-    start_background_initialization()
+# Initialize when imported by WSGI servers like gunicorn
+# This ensures the system starts up regardless of how the module is loaded
+try:
+    # Check if we're being imported by a WSGI server
+    if __name__ != '__main__' or 'gunicorn' in os.environ.get('SERVER_SOFTWARE', ''):
+        logger.info("Starting KPI GPT in production mode...")
+        start_background_initialization()
+except Exception as e:
+    logger.error(f"Error in production startup: {e}")
+    # Continue anyway, initialization will be triggered on first request
 
 if __name__ == '__main__':
     print("🚀 Starting KPI GPT Web Interface...")
