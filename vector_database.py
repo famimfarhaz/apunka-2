@@ -31,10 +31,20 @@ class VectorDatabase:
         # Initialize ChromaDB
         self._initialize_db()
         
-        # Initialize embedding model
+        # Initialize embedding model with optimization
         logger.info(f"Loading embedding model: {embedding_model}")
-        self.embedding_model = SentenceTransformer(embedding_model)
-        logger.info("Embedding model loaded successfully")
+        try:
+            # Try to use cached model first
+            self.embedding_model = SentenceTransformer(
+                embedding_model,
+                cache_folder=os.path.join(self.db_path, "model_cache"),
+                device='cpu'  # Force CPU to avoid CUDA issues on some platforms
+            )
+            logger.info("Embedding model loaded successfully")
+        except Exception as e:
+            logger.warning(f"Failed to load model with cache, trying default: {e}")
+            self.embedding_model = SentenceTransformer(embedding_model)
+            logger.info("Embedding model loaded successfully (fallback)")
         
     def _initialize_db(self):
         """Initialize ChromaDB client and collection"""

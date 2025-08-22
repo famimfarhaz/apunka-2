@@ -9,8 +9,9 @@ from flask import Flask, render_template, request, jsonify, Response
 import json
 import time
 import logging
-from threading import Lock
+from threading import Lock, Thread
 from kpi_gpt_rag import create_kpi_rag_system
+import os
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -24,32 +25,89 @@ app.jinja_env.auto_reload = True
 # Global RAG system instance
 rag_system = None
 system_lock = Lock()
+initialization_status = {
+    'status': 'starting',
+    'message': 'System is starting up...',
+    'progress': 0,
+    'error': None
+}
 
-def initialize_rag_system():
-    """Initialize the RAG system with proper error handling"""
-    global rag_system
+def initialize_rag_system_background():
+    """Initialize the RAG system in background with progress tracking"""
+    global rag_system, initialization_status
     
-    with system_lock:
-        if rag_system is None:
-            try:
-                logger.info("Initializing KPI GPT RAG system...")
-                rag_system = create_kpi_rag_system()
-                
-                logger.info("Setting up system components...")
-                setup_success = rag_system.setup_system()
-                
-                if not setup_success:
-                    logger.error("Failed to setup RAG system")
-                    return False
-                
-                logger.info("RAG system initialized successfully!")
+    try:
+        with system_lock:
+            if rag_system is not None:
                 return True
                 
-            except Exception as e:
-                logger.error(f"Error initializing RAG system: {e}")
+            # Update status: Creating system
+            initialization_status.update({
+                'status': 'initializing',
+                'message': 'Creating RAG system...',
+                'progress': 20
+            })
+            
+            logger.info("Initializing KPI GPT RAG system...")
+            rag_system = create_kpi_rag_system()
+            
+            # Update status: Setting up components
+            initialization_status.update({
+                'status': 'initializing',
+                'message': 'Setting up system components...',
+                'progress': 40
+            })
+            
+            logger.info("Setting up system components...")
+            setup_success = rag_system.setup_system()
+            
+            if not setup_success:
+                initialization_status.update({
+                    'status': 'error',
+                    'message': 'Failed to setup RAG system',
+                    'progress': 0,
+                    'error': 'Setup failed'
+                })
+                logger.error("Failed to setup RAG system")
+                rag_system = None
                 return False
+            
+            # Update status: Ready
+            initialization_status.update({
+                'status': 'ready',
+                'message': 'System is ready!',
+                'progress': 100,
+                'error': None
+            })
+            
+            logger.info("RAG system initialized successfully!")
+            return True
+            
+    except Exception as e:
+        initialization_status.update({
+            'status': 'error',
+            'message': f'Initialization failed: {str(e)}',
+            'progress': 0,
+            'error': str(e)
+        })
+        logger.error(f"Error initializing RAG system: {e}")
+        rag_system = None
+        return False
+
+def initialize_rag_system():
+    """Initialize the RAG system with proper error handling - Legacy function"""
+    return initialize_rag_system_background()
+
+def start_background_initialization():
+    """Start background initialization in a separate thread"""
+    def init_worker():
+        logger.info("Starting background initialization...")
+        initialize_rag_system_background()
     
-    return True
+    # Start initialization in background thread
+    init_thread = Thread(target=init_worker, daemon=True)
+    init_thread.start()
+    logger.info("Background initialization started")
 
 @app.route('/')
 def index():
@@ -61,23 +119,50 @@ def system_status():
     """Get system status and information"""
     try:
         if rag_system is None:
-            return jsonify({
-                'status': 'not_initialized',
-                'message': 'System is initializing...'
-            })
+            return jsonify(initialization_status)
         
         system_info = rag_system.get_system_info()
         return jsonify({
             'status': 'ready',
             'info': system_info,
-            'message': 'System is ready!'
+            'message': 'System is ready!',
+            'progress': 100
         })
         
     except Exception as e:
         logger.error(f"Error getting system status: {e}")
         return jsonify({
             'status': 'error',
-            'message': f'Error: {str(e)}'
+            'message': f'Error: {str(e)}',
+            'progress': 0
+        })
+
+@app.route('/api/system/initialize', methods=['POST'])
+def initialize_system():
+    """Manually trigger system initialization"""
+    try:
+        if rag_system is not None:
+            return jsonify({
+                'success': True,
+                'message': 'System is already initialized',
+                'status': 'ready'
+            })
+        
+        # Start background initialization
+        start_background_initialization()
+        
+        return jsonify({
+            'success': True,
+            'message': 'Initialization started in background',
+            'status': 'initializing'
+        })
+        
+    except Exception as e:
+        logger.error(f"Error starting initialization: {e}")
+        return jsonify({
+            'success': False,
+            'message': f'Failed to start initialization: {str(e)}',
+            'status': 'error'
         })
 
 @app.route('/api/chat', methods=['POST'])
@@ -203,29 +288,53 @@ def reset_system():
             'message': f'Error: {str(e)}'
         })
 
-# Initialize system on startup - using modern Flask approach
+# Flask startup hook
+@app.before_first_request
 def startup():
-    """Initialize RAG system on startup"""
-    logger.info("Starting KPI GPT Web Interface...")
-    return initialize_rag_system()
+    """Initialize RAG system on first request"""
+    logger.info("First request received - starting background initialization")
+    start_background_initialization()
+
+# Production startup
+def create_app():
+    """Create Flask app for production deployment"""
+    logger.info("Creating Flask app for production...")
+    
+    # Start background initialization immediately
+    start_background_initialization()
+    
+    return app
+
+# For production servers (like Render)
+if __name__ != '__main__':
+    # This runs when imported by gunicorn/other WSGI servers
+    logger.info("Starting KPI GPT in production mode...")
+    start_background_initialization()
 
 if __name__ == '__main__':
     print("🚀 Starting KPI GPT Web Interface...")
     print("=" * 50)
     
-    # Initialize system
-    if initialize_rag_system():
-        print("✅ KPI GPT system initialized successfully!")
-        print("🌐 Starting web server...")
-        print("📱 Access your KPI GPT at: http://localhost:5000")
-        print("=" * 50)
-        
-        app.run(
-            debug=False,
-            host='0.0.0.0',
-            port=5000,
-            threaded=True
-        )
+    # For local development, initialize fully first
+    if os.getenv('FLASK_ENV') == 'development' or os.getenv('DEBUG') == 'true':
+        print("Development mode: Full initialization...")
+        if initialize_rag_system():
+            print("✅ KPI GPT system initialized successfully!")
+        else:
+            print("❌ Failed to initialize KPI GPT system")
+            print("Will start with background initialization...")
+            start_background_initialization()
     else:
-        print("❌ Failed to initialize KPI GPT system")
-        print("Please check your configuration and try again.")
+        print("Production mode: Background initialization...")
+        start_background_initialization()
+    
+    print("🌐 Starting web server...")
+    print("📱 Access your KPI GPT at: http://localhost:5000")
+    print("=" * 50)
+    
+    app.run(
+        debug=False,
+        host='0.0.0.0',
+        port=int(os.getenv('PORT', 5000)),
+        threaded=True
+    )
