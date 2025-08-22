@@ -20,8 +20,8 @@ tiktoken
 PyPDF2
 
 # Data Handling
-pandas
-numpy
+pandas>=2.0.0,<2.3.0
+numpy>=1.24.0,<1.27.0
 
 # Environment and Configuration
 python-dotenv
