@@ -221,6 +221,10 @@ class KPIGPTRagSystem:
             return {'section': 'principal'}
         if any(word in q for word in ['club', 'bncc', 'rover', 'scout', 'debate']):
             return {'section': 'clubs'}
+        # If query contains a person name (capitalized words), likely looking for teachers
+        words = q.split()
+        if len(words) >= 2 and any(word.strip().capitalize() in ['Julekha', 'Koli', 'Akter'] for word in words):
+            return {'section': 'teachers'}
         return None
 
     def _retrieve_with_expansion(self, user_query: str) -> List[Dict[str, Any]]:
@@ -237,7 +241,7 @@ class KPIGPTRagSystem:
                     n_results=self.max_retrieval_results,
                     where=section_filter
                 )
-                if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.5:
+                if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.7:
                     return retrieved_docs
                 
                 # If section filtering doesn't work well, try direct search
@@ -286,7 +290,7 @@ class KPIGPTRagSystem:
                         best_match_score = results[0]['similarity_score']
                 
                 # If we found results but no exact name match, use best results
-                if best_results and best_match_score > -0.5:
+                if best_results and best_match_score > -0.7:
                     logger.info(f"Using best expanded search results (score: {best_match_score:.3f})")
                     return best_results[:self.max_retrieval_results]
             
@@ -298,7 +302,7 @@ class KPIGPTRagSystem:
             )
             
             # If we find good matches (high similarity), return them
-            if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.3:
+            if retrieved_docs and retrieved_docs[0]['similarity_score'] > -0.6:
                 return retrieved_docs
             
             # Check if this looks like a person name query
@@ -360,20 +364,27 @@ class KPIGPTRagSystem:
         # Extract potential name from query
         query_lower = original_query.lower()
         
-        # Remove common question words
+        # Remove common question words and clean up
         clean_query = original_query
-        for phrase in ['who is', 'tell me about', 'information about', 'about', 'details about']:
+        for phrase in ['who is', 'tell me about', 'information about', 'about', 'details about', '?']:
             clean_query = clean_query.replace(phrase, '').strip()
         
-        # Generate expanded queries
+        # Generate expanded queries (simple concatenation)
         expanded_queries = [
             f"{clean_query} teacher",
             f"{clean_query} instructor", 
             f"{clean_query} staff",
             f"{clean_query} official",
             f"{clean_query} department",
-            f"{clean_query} contact"
+            f"{clean_query} contact",
+            # Also try with partial name components
+            clean_query.split()[0] + " instructor" if clean_query.split() else "instructor",
+            clean_query.split()[-1] + " teacher" if clean_query.split() else "teacher"
         ]
+        
+        # Remove duplicates and empty queries
+        expanded_queries = [q.strip() for q in expanded_queries if q.strip()]
+        expanded_queries = list(set(expanded_queries))  # Remove duplicates
         
         return expanded_queries
     
