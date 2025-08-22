@@ -114,6 +114,15 @@ def index():
     """Main chat interface"""
     return render_template('index.html')
 
+@app.route('/health')
+def health_check():
+    """Health check endpoint for Render"""
+    return jsonify({
+        'status': 'healthy',
+        'service': 'KPI GPT',
+        'timestamp': int(time.time())
+    })
+
 @app.route('/api/system/status')
 def system_status():
     """Get system status and information"""
@@ -343,6 +352,6 @@ if __name__ == '__main__':
     app.run(
         debug=False,
         host='0.0.0.0',
-        port=int(os.getenv('PORT', 5000)),
+        port=int(os.getenv('PORT', 10000)),  # Render default port
         threaded=True
     )
