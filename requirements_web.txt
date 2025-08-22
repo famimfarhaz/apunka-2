@@ -1,0 +1,21 @@
+# KPI GPT Web UI Requirements
+# Created by: Famim Farhaz
+
+# Core web framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Existing KPI GPT dependencies (from your original system)
+sentence-transformers==2.2.2
+chromadb==0.4.15
+groq==0.4.1
+python-dotenv==1.0.0
+numpy==1.24.3
+pandas==2.0.3
+
+# Additional web UI dependencies
+python-engineio==4.7.1
+python-socketio==5.9.0
+
+# Development and debugging (optional)
+flask-cors==4.0.0

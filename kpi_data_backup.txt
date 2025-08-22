@@ -1,0 +1,2455 @@
+KPI GPT DATA
+-------------------
+
+
+
+**About College:**
+Khulna Polytechnic Institute is an institution under the Directorate of Technical Education, Technical and Madrasa Education Division, Ministry of Education, Government of the People's Republic of Bangladesh. It was established in 1963 with the aim of creating skilled human resources. The institution has 156 permanent revenue-funded positions and 40 temporary revenue-funded positions. At present, the diploma-in-engineering curriculum in a total of 9 technologies is being conducted here. Situated on 32.25 acres of land, the institute is located 4.5 kilometers away from Khulna Railway Station and the divisional bus terminal. Currently, a total of 1,200 students are admitted in 9 technologies each year, and about 4,500 students study across 4 semesters. It is a Registered Training Organization (RTO) under the Bangladesh Technical Education Board.
+
+Khulna Polytechnic Institute is making every effort to spread technical education throughout the country, especially in the southern region of Bangladesh. Since Khulna is an industrial area, our institute offers nine relevant technologies to meet the demands of industries: Civil, Electrical, Mechanical, Power, Electronics, Computer, Environmental, IPCT (Instrumentation & Process Control Technology), and RAC (Refrigeration & Air Conditioning). Thus, our students become skilled in these fields. We always maintain strong connections with relevant industries and provide them with a database of our students after the completion of their final semester. Khulna Polytechnic Institute was founded in 1963 with the goal of providing high-quality technical education, developing human resources, and enabling graduates to secure well-paying jobs.
+
+Work makes people dynamic and life-oriented. Just as practice is essential for achieving self-satisfaction, expressing one’s thoughts through writing is also important. At present, the most acceptable and time-appropriate form of education is technical education. Realizing its necessity, the present government adopted "Vision 2021" to build a Digital Bangladesh. Diploma engineers play a vital role in building a middle-income country.
+
+Khulna Government Polytechnic Institute is one of the largest technical education institutions in Bangladesh. Currently, around 4,000 students study here. Work on a technical training center in Khulna began as part of Pakistan’s first Five-Year Plan (1955–60). This polytechnic institute was established in 1963. At present, around 3,800 students are studying for a diploma in engineering at this institution. It has 9 academic departments, and about 700 students enroll each year for the diploma program. Approximately 100 teachers teach across these departments and the institute.
+
+
+**Departments of the Polytechnic Institute:**
+
+* Computer Technology
+* Civil Technology
+* Electrical Technology
+* Power Technology
+* Mechanical Technology
+* Electronics Technology
+* IPCT Technology (Instrumentation & Process Control Technology)
+* ENVT (Environmental Technology)
+* RAC (Refrigeration & Air Conditioning)
+
+Since 2008, the student hostel of Khulna Polytechnic Institute has been closed.
+
+**Department Details:**
+
+* **Civil** – S.M. Kamruzzaman (Head of Department) – Mobile: 01992006492
+* **Electrical** – Sheikh Md. Mahfuzur Rahman (Head of Department) – Mobile: 01819-189822
+* **Mechanical** – Subrata Saha (Head of Department) – Mobile: 01992006869
+* **Electronics** – Dr. Engr. Alok Sarkar (Head of Department) – Mobile: 01719042036
+* **Computer** – Susmita Kundu (Head of Department) – Mobile: 01992012823
+
+---
+
+**Officials:**
+
+1. **Name:** Subrata Saha
+   **Designation:** Chief Instructor (1st Shift), Mechanical
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [subrata2011new@gmail.com](mailto:subrata2011new@gmail.com)
+   **Mobile:** 01992006869
+   **Office Phone:** 01992006869
+   **Home Phone:** 01992006869
+
+2. **Name:** Susmita Kundu
+   **Designation:** Chief Instructor (1st Shift), Computer
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [susmita.bsec11@gmail.com](mailto:susmita.bsec11@gmail.com)
+   **Mobile:** 01992012823
+   **Office Phone:** 01992012823
+   **Home Phone:** 01992012823
+
+3. **Name:** Alok Sarkar
+   **Designation:** Chief Instructor (2nd Shift), Electronics
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [engr.al.la2000@gmail.com](mailto:engr.al.la2000@gmail.com)
+   **Mobile:** 01719042036
+   **Office Phone:** 01719042036
+   **Home Phone:** 01719042036
+
+4. **Name:** Md. Shahin
+   **Designation:** Chief Instructor, IPCT
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [shahin.kpi.777@gmail.com](mailto:shahin.kpi.777@gmail.com)
+   **Mobile:** 01724-954510
+   **Office Phone:** 01724-954510
+   **Home Phone:** 01724-954510
+
+5. **Name:** A.K.M. Mazharul Alam
+   **Designation:** Chief Instructor (1st Shift), ENVT
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [mazharulalam030@gmail.com](mailto:mazharulalam030@gmail.com)
+   **Mobile:** 01722469341
+   **Office Phone:** 01722469341
+   **Home Phone:** 01722469341
+
+6. **Name:** Engr. Mobashwira Sultana Monira
+   **Designation:** Chief Instructor (1st Shift), RAC
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [manira.bd@gmail.com](mailto:manira.bd@gmail.com)
+   **Mobile:** 01911-760987
+   **Office Phone:** 01911-760987
+   **Home Phone:** 01911-760987
+
+7. **Name:** Md. Abu Darda Mali
+   **Designation:** Chief Instructor (1st Shift), Electronics
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [madm1979@gmail.com](mailto:madm1979@gmail.com)
+   **Mobile:** 01720-002219
+   **Office Phone:** 01720-002219
+   **Home Phone:** 01720-002219
+
+8. **Name:** S.M. Kamruzzaman
+   **Designation:** Chief Instructor (1st Shift), Civil
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [tsmk2006@gmail.com](mailto:tsmk2006@gmail.com)
+   **Mobile:** 01992006492
+   **Office Phone:** 01992006492
+   **Home Phone:** 01992006492
+
+9. **Name:** Bimal Chandra Dewri
+   **Designation:** Chief Instructor (2nd Shift), Mechanical
+   **Office:** Khulna Polytechnic Institute
+   **Email:** [bimal.dewri@gmail.com](mailto:bimal.dewri@gmail.com)
+   **Mobile:** 01992-006414
+   **Office Phone:** 01992-006414
+   **Home Phone:** 01992-006414
+
+10. **Name:** Mina Md. Bulbul Jahan
+    **Designation:** Chief Instructor (2nd Shift), Civil
+    **Office:** Khulna Polytechnic Institute
+    **Email:** [bulbulkpi1975@gmail.com](mailto:bulbulkpi1975@gmail.com)
+    **Mobile:** 01711-046161
+    **Office Phone:** 01711-046161
+    **Home Phone:** 01711-046161
+
+11. **Name:** Md. Moshiar Rahman
+    **Designation:** Instructor (2nd Shift), Power
+    **Office:** Khulna Polytechnic Institute
+    **Email:** [moshiarkpipt@gmail.com](mailto:moshiarkpipt@gmail.com)
+    **Mobile:** 01720-514701
+    **Office Phone:** 01720-514701
+    **Home Phone:** 01720-514701
+
+12. **Name:** Sheikh Md. Mahfuzur Rahman
+    **Designation:** Instructor (2nd Shift), Electrical
+    **Office:** Khulna Polytechnic Institute
+    **Email:** [mahfuzkhpi@gmail.com](mailto:mahfuzkhpi@gmail.com)
+    **Mobile:** 01819-189822
+    **Office Phone:** 01819-189822
+    **Home Phone:** 01819-189822
+
+13. **Name:** Md. Sabuj Rana
+    **Designation:** Instructor (2nd Shift), Computer
+    **Office:** Khulna Polytechnic Institute
+    **Email:** [sabuzrana77@gmail.com](mailto:sabuzrana77@gmail.com)
+    **Mobile:** 01723940773
+    **Office Phone:** 01723940773
+    **Room No.:** R-302
+    **Home Phone:** 01723940773
+
+14. **Name:** Md. Ahsan Habib
+    **Designation:** Junior Instructor (1st Shift), Power
+    **Office:** Khulna Polytechnic Institute
+    **Email:** [ahabibpt.jpi@gmail.com](mailto:ahabibpt.jpi@gmail.com)
+    **Mobile:** 01912842353
+    **Office Phone:** 01912842353
+    **Home Phone:** 01912842353
+	
+
+
+
+
+**List of Teachers (By Faculty)**
+
+**Civil:**
+
+1.
+
+Name: S.M. Kamruzzaman
+Designation: Chief Instructor
+Faculty: Civil
+Department: Civil
+Email: [tsmk2006@gmail.com](mailto:tsmk2006@gmail.com)
+Batch (BCS): 0
+Office Phone: 01992006492
+Home Phone: 01992006492
+Mobile: 01992006492
+
+2.
+
+Name: Mina Md. Bulbul Jahan
+Designation: Chief Instructor
+Faculty: Civil
+Department: Civil
+Email: [bulbulkpi1975@gmail.com](mailto:bulbulkpi1975@gmail.com)
+Batch (BCS): 0
+Office Phone: 01711-046161
+Home Phone: 01711-046161
+Mobile: 01711-046161
+
+3.
+
+Name: Md. Yasir Arafat
+Designation: Instructor
+Faculty: Civil
+Department: Civil
+Email: [yasircekpi@gmail.com](mailto:yasircekpi@gmail.com)
+Batch (BCS): 0
+Office Phone: 01722-276713
+Home Phone: 01722-276713
+Mobile: 01722-276713
+
+4.
+
+Name: Tuhin Malakar
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [tuhinmalaker4534@gmail.com](mailto:tuhinmalaker4534@gmail.com)
+Batch (BCS): 0
+Office Phone: 01965439771
+Home Phone: 01965439771
+Mobile: 01965439771
+
+5.
+
+Name: Sabuj Chandra Roy
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [sabujroy769@gmail.com](mailto:sabujroy769@gmail.com)
+Batch (BCS): 0
+Office Phone: 01794-282844
+Home Phone: 01794-282844
+Mobile: 01794-282844
+
+6.
+
+Name: Md. Shakib Uddin
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [shakibuddin77@gmail.com](mailto:shakibuddin77@gmail.com)
+Batch (BCS): 0
+Office Phone: 01608497199
+Home Phone: 01608497199
+Mobile: 01608497199
+
+7.
+
+Name: Md. Abbas Ali
+Designation: Instructor
+Faculty: Civil
+Department: Civil
+Email: [abbasce12@gmail.com](mailto:abbasce12@gmail.com)
+Batch (BCS): 0
+Office Phone: 01992-006945
+Home Phone: 01992-006945
+Mobile: 01992-006945
+
+8.
+
+Name: Kamrul Hasan
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [Kamrul92.mkh@gmail.com](mailto:Kamrul92.mkh@gmail.com)
+Batch (BCS): 0
+Office Phone: 01861735376
+Home Phone: 01861735376
+Mobile: 01861735376
+
+9.
+
+Name: Jewel Rana
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [mdjewelrana2011672@gmail.com](mailto:mdjewelrana2011672@gmail.com)
+Batch (BCS): 0
+Office Phone: 01722717278
+Home Phone: 01722717278
+Mobile: 01722717278
+
+10.
+
+Name: Md. Jamal Hossain
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [mdjamalhosenppip@gmail.com](mailto:mdjamalhosenppip@gmail.com)
+Batch (BCS): 0
+Office Phone: 01759054028
+Home Phone: 01759054028
+Mobile: 01759054028
+
+11.
+
+Name: Firoz Khan
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [mdferozkhan373@gmail.com](mailto:mdferozkhan373@gmail.com)
+Batch (BCS): 0
+Office Phone: 01734367864
+Home Phone: 01734367864
+Mobile: 01734367864
+
+12.
+
+Name: Md. Sohel Rana
+Designation: Junior Instructor (Tech/Civil)
+Faculty: Civil
+Department: Civil
+Email: [shoheldiu16@gmail.com](mailto:shoheldiu16@gmail.com)
+Batch (BCS): 0
+Office Phone: 01741473145
+Home Phone: 01741473145
+Mobile: 01741473145
+
+
+
+
+
+
+**Electrical Department**
+
+1.
+
+Name: Sheikh Md. Mahfuzur Rahman
+Designation: Instructor
+Faculty: Electrical
+Department: Electrical
+Email: [mahfuzkhpi@gmail.com](mailto:mahfuzkhpi@gmail.com)
+Batch (BCS): 0
+Office Phone: 01819-189822
+Home Phone: 01819-189822
+Mobile: 01819-189822
+
+2.
+
+Name: Inzamamul Islam
+Designation: Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [inzamamul87@gmail.com](mailto:inzamamul87@gmail.com)
+Batch (BCS): 40
+Office Phone: 01756-402285
+Home Phone: 01756-402285
+Mobile: 01756-402285
+
+3.
+
+Name: Md. Waliur Rahman
+Designation: Junior Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [waliurrahman722@gmail.com](mailto:waliurrahman722@gmail.com)
+Batch (BCS): 0
+Office Phone: 01942-438700
+Home Phone: 01942-438700
+Mobile: 01942-438700
+
+4.
+
+Name: Md. Mehedi Hasan
+Designation: Junior Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [mh015564@gmail.com](mailto:mh015564@gmail.com)
+Batch (BCS): 0
+Office Phone: 01316-875498
+Home Phone: 01316-875498
+Mobile: 01316-875498
+
+5.
+
+Name: Md. Bulbul Ahmed
+Designation: Junior Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [mdbulbulahmed.eee@gmail.com](mailto:mdbulbulahmed.eee@gmail.com)
+Batch (BCS): 0
+Office Phone: 01627-625101
+Home Phone: 01627-625101
+Mobile: 01627-625101
+
+6.
+
+Name: Md. Osman Sheikh
+Designation: Junior Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [osmannp692@gmail.com](mailto:osmannp692@gmail.com)
+Batch (BCS): 0
+Office Phone: 01756-803444
+Home Phone: 01756-803444
+Mobile: 01756-803444
+
+7.
+
+Name: Md. Ashikuzzaman
+Designation: Junior Instructor (Tech/Electrical)
+Faculty: Electrical
+Department: Electrical
+Email: [ashikuzzamanashik88@gmail.com](mailto:ashikuzzamanashik88@gmail.com)
+Batch (BCS): 0
+Office Phone: 01756-892315
+Home Phone: 01756-892315
+Mobile: 01756-892315
+
+---
+
+**Mechanical Department**
+
+1.
+
+Name: Subrata Saha
+Designation: Chief Instructor, Mechanical
+Faculty: Mechanical
+Department: Mechanical
+Email: [subrata2011new@gmail.com](mailto:subrata2011new@gmail.com)
+Batch (BCS): 0
+Office Phone: 01992-006869
+Home Phone: 01992-006869
+Mobile: 01992-006869
+
+2.
+
+Name: Bimal Chandra Dewri
+Designation: Chief Instructor
+Faculty: Mechanical
+Department: Mechanical
+Email: [bimal.dewri@gmail.com](mailto:bimal.dewri@gmail.com)
+Batch (BCS): 0
+Office Phone: 01992-006414
+Home Phone: 01992-006414
+Mobile: 01992-006414
+
+3.
+
+Name: Md. Israfil Alam
+Designation: Instructor
+Faculty: Mechanical
+Department: Mechanical
+Email: [alamisrafil1@gmail.com](mailto:alamisrafil1@gmail.com)
+Batch (BCS): 0
+Office Phone: 01757-987625
+Home Phone: 01757-987625
+Mobile: 01757-987625
+
+4.
+
+Name: A.K.M. Shahid Hasan
+Designation: Instructor
+Faculty: Mechanical
+Department: Mechanical
+Email: [akmsahidhasan.kuet@gmail.com](mailto:akmsahidhasan.kuet@gmail.com)
+Batch (BCS): 0
+Office Phone: 01884-455098
+Home Phone: 01884-455098
+Mobile: 01884-455098
+
+5.
+
+Name: Debashish Chandra Dey
+Designation: Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [debame109@gmail.com](mailto:debame109@gmail.com)
+Batch (BCS): 43
+Office Phone: 01710-317057
+Home Phone: 01710-317057
+Mobile: 01710-317057
+
+6.
+
+Name: Md. Ruhul Amin Rana
+Designation: Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [rana.ruet13@gmail.com](mailto:rana.ruet13@gmail.com)
+Batch (BCS): 43
+Office Phone: 01722-708368
+Home Phone: 01722-708368
+Mobile: 01722-708368
+
+7.
+
+Name: Md. Sabbir Ahmed
+Designation: Junior Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [mdsabbirahmed156@gmail.com](mailto:mdsabbirahmed156@gmail.com)
+Batch (BCS): 0
+Office Phone: 01705-723814
+Home Phone: 01705-723814
+Mobile: 01705-723814
+
+8.
+
+Name: Onik Roy
+Designation: Junior Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [roy727658@gmail.com](mailto:roy727658@gmail.com)
+Batch (BCS): 0
+Office Phone: 01934-074805
+Home Phone: 01934-074805
+Mobile: 01934-074805
+
+9.
+
+Name: Tonmoy Sana
+Designation: Junior Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [tonmoysana1996@gmail.com](mailto:tonmoysana1996@gmail.com)
+Batch (BCS): 0
+Office Phone: 01517-856123
+Home Phone: 01517-856123
+Mobile: 01517-856123
+
+10.
+
+Name: Milan
+Designation: Junior Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [modestmilan40@gmail.com](mailto:modestmilan40@gmail.com)
+Batch (BCS): 0
+Office Phone: 01950-782875
+Home Phone: 01950-782875
+Mobile: 01950-782875
+
+11.
+
+Name: Avijit Mridha
+Designation: Junior Instructor (Tech/Mechanical)
+Faculty: Mechanical
+Department: Mechanical
+Email: [avijitmridhabarisal@gmail.com](mailto:avijitmridhabarisal@gmail.com)
+Batch (BCS): 0
+Office Phone: 01843-468161
+Home Phone: 01737-854537
+Mobile: 01843-468161
+
+
+
+---
+
+### **Power Department**
+
+**1.**
+**Name:** Md. Moshiar Rahman
+**Designation:** Instructor
+**Faculty:** Power
+**Department:** Power
+**Email:** [moshiarkpipt@gmail.com](mailto:moshiarkpipt@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01720-514701
+**Phone (Home):** 01720-514701
+**Mobile:** 01720-514701
+
+**2.**
+**Name:** Md. Ahsan Habib
+**Designation:** Junior Instructor
+**Faculty:** Power
+**Department:** Power
+**Email:** [ahabibpt.jpi@gmail.com](mailto:ahabibpt.jpi@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01912842353
+**Phone (Home):** 01912842353
+**Mobile:** 01912842353
+
+**3.**
+**Name:** Amitava Halder
+**Designation:** Junior Instructor
+**Faculty:** Power
+**Department:** Power
+**Email:** *(Not provided)*
+**Batch (BCS):** 0
+**Phone (Office):** 01925545690
+**Phone (Home):** 01925545690
+**Mobile:** 01925545690
+
+**4.**
+**Name:** Md. Suman Mia
+**Designation:** Junior Instructor (Tech/Power)
+**Faculty:** Power
+**Department:** Power
+**Email:** [khsumon541@gmail.com](mailto:khsumon541@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01992999139
+**Phone (Home):** 01992999139
+**Mobile:** 01992999139
+
+---
+
+### **Electronics Department**
+
+**1.**
+**Name:** Dr. Engr. Alok Sarker
+**Designation:** Chief Instructor
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [engr.al.la2000@gmail.com](mailto:engr.al.la2000@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01719042036
+**Phone (Home):** 01719042036
+**Mobile:** 01719042036
+
+**2.**
+**Name:** Md. Abu Darda Mali
+**Designation:** Chief Instructor
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [madm1979@gmail.com](mailto:madm1979@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01720-002219
+**Phone (Home):** 01720-002219
+**Mobile:** 01720-002219
+
+**3.**
+**Name:** Akunji Mehedi Hasan
+**Designation:** Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [mehedihasan08ece@gmail.com](mailto:mehedihasan08ece@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** +880 1685-461785
+**Phone (Home):** +880 1685-461785
+**Mobile:** +880 1685-461785
+
+**4.**
+**Name:** Md. Babul
+**Designation:** Instructor
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [bk2004babul@yahoo.com](mailto:bk2004babul@yahoo.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01712908457
+**Phone (Home):** 01712908457
+**Mobile:** 01712908457
+
+**5.**
+**Name:** Md. Rajib Hossain
+**Designation:** Instructor
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** *(Not provided)*
+**Batch (BCS):** 0
+**Phone (Office):** 01701006082
+**Phone (Home):** 01701006082
+**Mobile:** 01701006082
+
+**6.**
+**Name:** Nazia Nahar Shanta
+**Designation:** Junior Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [nazianahar1993@gmail.com](mailto:nazianahar1993@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01952885035
+**Phone (Home):** 01952885035
+**Mobile:** 01952885035
+
+**7.**
+**Name:** Md. Shamim
+**Designation:** Junior Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [dipshamim@gmail.com](mailto:dipshamim@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01772401036
+**Phone (Home):** 01772401036
+**Mobile:** 01772401036
+
+**8.**
+**Name:** Monishongkor Biswas
+**Designation:** Junior Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [mskbiswas01@gmail.com](mailto:mskbiswas01@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01575066663
+**Phone (Home):** 01575066663
+**Mobile:** 01575066663
+
+**9.**
+**Name:** Sattyajit Sarker
+**Designation:** Junior Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [sattyajitsarkar222@gmail.com](mailto:sattyajitsarkar222@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01715-160605
+**Phone (Home):** 01715-160605
+**Mobile:** 01715-160605
+
+**10.**
+**Name:** Md. Shipon Hossain
+**Designation:** Junior Instructor (Tech/Electronics)
+**Faculty:** Electronics
+**Department:** Electronics
+**Email:** [shiponeducation@gmail.com](mailto:shiponeducation@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01797100036
+**Phone (Home):** 01797100036
+**Mobile:** 01797100036
+
+
+
+
+**Computer Science and Technology:**
+
+1
+**Name:** Sushmita Kundu
+**Designation:** Chief Instructor, Computer
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [susmita.bsec11@gmail.com](mailto:susmita.bsec11@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01992012823
+**Phone (Home):** 01770902630
+**Mobile:** 01770902630
+
+2
+**Name:** Simanto Ghosh
+**Designation:** Instructor (Tech), Computer
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [simanto@gmail.com](mailto:simanto@gmail.com)
+**Batch (BCS):** 38
+
+**Phone (Office):** 01749448418
+**Room Number:** 302
+**Phone (Home):** 01749448418
+**Mobile:** 01749448418
+
+3
+**Name:** Md. Sabuz Rana
+**Designation:** Instructor (Tech), Computer
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [sabuzrana77@gmail.com](mailto:sabuzrana77@gmail.com)
+**Batch (BCS):** 38
+
+**Phone (Office):** 01922746342
+**Room Number:** R-302
+**Phone (Home):** 01723940773
+**Mobile:** 01723940773
+
+4
+**Name:** Md. Mehedi Hasan
+**Designation:** Instructor (Tech), Computer
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [mehedi100902@gmail.com](mailto:mehedi100902@gmail.com)
+**Batch (BCS):** 38
+
+**Phone (Office):** 01922871114
+**Room Number:** 302
+**Mobile:** 01922871114
+
+5
+**Name:** Suchana Haldar
+**Designation:** Junior Instructor (Tech/Computer)
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** —
+**Batch (BCS):** 0
+
+**Phone (Office):** +880 1981-684647
+**Phone (Home):** +880 1981-684647
+**Mobile:** +880 1981-684647
+
+6
+**Name:** Arup Roy
+**Designation:** Junior Instructor (Tech/Computer)
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [arupray04@gmail.com](mailto:arupray04@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01763548164
+**Phone (Home):** 01763548164
+**Mobile:** 01763548164
+
+7
+**Name:** Rinku Mallick
+**Designation:** Junior Instructor (Tech/Computer)
+**Faculty:** Computer Science and Technology
+**Department:** Computer
+**Email:** [ringkumallick21@gmail.com](mailto:ringkumallick21@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01981865758
+**Phone (Home):** 01981865758
+**Mobile:** 01981865758
+
+---
+
+**ENVT:**
+
+1
+**Name:** Md. Mazharul Alam
+**Designation:** Chief Instructor
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [mazharulalam030@gmail.com](mailto:mazharulalam030@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01722469341
+**Phone (Home):** 01722469341
+**Mobile:** 01722469341
+
+2
+**Name:** H. M. Masud Rana
+**Designation:** Instructor (Tech/Environment)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [abdullah19masudndc@gmail.com](mailto:abdullah19masudndc@gmail.com)
+**Batch (BCS):** 41
+
+**Phone (Office):** 01991750786
+**Phone (Home):** 01991750786
+**Mobile:** 01991750786
+
+3
+**Name:** Md. Rifat Chowdhury
+**Designation:** Instructor (Tech/Environmental)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [rifatmist03@gmail.com](mailto:rifatmist03@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01639395444
+**Phone (Home):** 01639395444
+**Mobile:** 01639395444
+
+4
+**Name:** Lohit Bairagi
+**Designation:** Junior Instructor (Tech/Environment)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [lohit555t@gmail.com](mailto:lohit555t@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01748604083
+**Phone (Home):** 01748604083
+**Mobile:** 01748604083
+
+5
+**Name:** Md. Mottakin Islam
+**Designation:** Junior Instructor (Tech/Environment)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [mottakinislam381@gmail.com](mailto:mottakinislam381@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01841433024
+**Phone (Home):** 01841433024
+**Mobile:** 01841433024
+
+6
+**Name:** Md. Zahidul Islam
+**Designation:** Junior Instructor (Tech/Environment)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [Jahidul1055@gmail.com](mailto:Jahidul1055@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01942092466
+**Phone (Home):** 01942092466
+**Mobile:** 01942092466
+
+7
+**Name:** Md. Arifuzzaman
+**Designation:** Junior Instructor (Tech/Environment)
+**Faculty:** ENVT
+**Department:** ENVT
+**Email:** [engarifzaman@gmail.com](mailto:engarifzaman@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01712635608
+**Phone (Home):** 01712635608
+**Mobile:** 01712635608
+
+---
+
+**IPCT:**
+
+1
+**Name:** Md. Shaheen
+**Designation:** Chief Instructor
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [shahin.kpi.777@gmail.com](mailto:shahin.kpi.777@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01724-954510
+**Phone (Home):** 01724-954510
+**Mobile:** 01724-954510
+
+2
+**Name:** Md. Saleh Nasim
+**Designation:** Instructor (Tech/IPCT)
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [mdsalehnasim@gmail.com](mailto:mdsalehnasim@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01707160504
+**Phone (Home):** 01707160504
+**Mobile:** 01707160504
+
+3
+**Name:** Md. Ujjal Hossain
+**Designation:** Junior Instructor (Tech/IPCT)
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [hridoykpi222@gmail.com](mailto:hridoykpi222@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01558904777
+**Phone (Home):** 01734564121
+**Mobile:** 01558904777
+
+4
+**Name:** Md. Shakil Hossain
+**Designation:** Junior Instructor (Tech/IPCT)
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [mirkamari217@gmail.com](mailto:mirkamari217@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01704458612
+**Phone (Home):** 01704458612
+**Mobile:** 01704458612
+
+5
+**Name:** Md. Mushfiquzzaman
+**Designation:** Junior Instructor (Tech/IPCT)
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [mmusfikuzzaman@gmail.com](mailto:mmusfikuzzaman@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01601650913
+**Phone (Home):** 01601650913
+**Mobile:** 01601650913
+
+6
+**Name:** Md. Mahbub Alam
+**Designation:** Junior Instructor (Tech/IPCT)
+**Faculty:** IPCT
+**Department:** IPCT
+**Email:** [mahbub174898@gmail.com](mailto:mahbub174898@gmail.com)
+**Batch (BCS):** 0
+
+**Phone (Office):** 01774399017
+**Phone (Home):** 01774399017
+**Mobile:** 01774399017
+
+
+
+
+**RAC:**
+1
+**Name:** Engineer Mobashira Sultana Monira
+**Designation:** Chief Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [manira.bd@gmail.com](mailto:manira.bd@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01911-760987
+**Phone (Home):** 01911-760987
+**Mobile:** 01911-760987
+
+2
+**Name:** Emdadul Haque Khan
+**Designation:** Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [emdadppi@gmail.com](mailto:emdadppi@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01712533122
+**Phone (Home):** 01712533122
+**Mobile:** 01712533122
+
+3
+**Name:** S. M. Salah Uddin
+**Designation:** Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [sumancuetme13@gmail.com](mailto:sumancuetme13@gmail.com)
+**Batch (BCS):** 41
+**Phone (Office):** 01728238948
+**Phone (Home):** 01728238948
+**Mobile:** 01728238948
+
+4
+**Name:** Ali Ahmad Biswas
+**Designation:** Junior Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [bdali2547s@gmail.com](mailto:bdali2547s@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01517840524
+**Phone (Home):** 01517840524
+**Mobile:** 01517840524
+
+5
+**Name:** Md. Rajib Islam
+**Designation:** Junior Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [mdrajibislam313@gmail.com](mailto:mdrajibislam313@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01796066312
+**Phone (Home):** 01796066312
+**Mobile:** 01796066312
+
+6
+**Name:** Md. Asaduzzaman Khan
+**Designation:** Junior Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [asaduzzaman.rac@gmail.com](mailto:asaduzzaman.rac@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01318728078
+**Phone (Home):** 01318728078
+**Mobile:** 01318728078
+
+7
+**Name:** Md. Mahbub Alam
+**Designation:** Junior Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [m.mahbubofficial@gmail.com](mailto:m.mahbubofficial@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01621740235
+**Phone (Home):** 01621740235
+**Mobile:** 01621740235
+
+8
+**Name:** Md. Khokon Mia
+**Designation:** Junior Instructor (Tech/RAC)
+**Faculty:** RAC
+**Department:** RAC
+**Email:** [khokunmia01738@gmail.com](mailto:khokunmia01738@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01738145538
+**Phone (Home):** 01738145538
+**Mobile:** 01738145538
+
+---
+
+**Non-Tech:**
+1
+**Name:** Mahbub Alam
+**Designation:** Chief Instructor (Non-Tech)
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** —
+**Batch (BCS):** 0
+**Phone (Office):** 01303585194
+**Phone (Home):** 01303585194
+**Mobile:** 01303585194
+
+2
+**Name:** Mithun Sarker
+**Designation:** Instructor (Physics)
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [mith.kpi@gmail.com](mailto:mith.kpi@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01711470067
+**Phone (Home):** 01711470067
+**Mobile:** 01711470067
+
+3
+**Name:** Shariful Islam
+**Designation:** Instructor (Non-Tech), Bangla
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [sharifulb07@gmail.com](mailto:sharifulb07@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01404009489
+**Phone (Home):** 01404009489
+**Mobile:** 01404009489
+
+4
+**Name:** Md. Nazmul Hossain
+**Designation:** Instructor (Non-Tech), Bangla
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [nazmul.du129@gmail.com](mailto:nazmul.du129@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01735444254
+**Phone (Home):** 01735444254
+**Mobile:** 01735444254
+
+5
+**Name:** Dipak Kumar Mondal
+**Designation:** Instructor (Non-Tech), Mathematics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [dkm250879@gmail.com](mailto:dkm250879@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01912210209
+**Phone (Home):** 01912210209
+**Mobile:** 01912210209
+
+6
+**Name:** Liakat Hossain
+**Designation:** Instructor (Non-Tech), Mathematics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [leakat.hossen@gmail.com](mailto:leakat.hossen@gmail.com)
+**Batch (BCS):** 36
+**Phone (Office):** 01922619978
+**Phone (Home):** 01922619978
+**Mobile:** 01922619978
+
+7
+**Name:** Julekha Akter Koli
+**Designation:** Instructor (Non-Tech/Chemistry)
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** —
+**Batch (BCS):** 40
+**Phone (Office):** +880 1642-880100
+**Phone (Home):** +880 1642-880100
+**Mobile:** +880 1642-880100
+
+8
+**Name:** Md. Mostafa Morshed
+**Designation:** Junior Instructor (Non-Tech), Management
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [mostafa911@gmail.com](mailto:mostafa911@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** 01515686913
+**Phone (Home):** 01515686913
+**Mobile:** 01515686913
+
+9
+**Name:** Md. Al-Emran
+**Designation:** Junior Instructor (Non-Tech), Mathematics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [imrankhan731990@gmail.com](mailto:imrankhan731990@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** 01722075288
+**Phone (Home):** 01722075288
+**Mobile:** 01722075288
+
+10
+**Name:** Hira Parvez
+**Designation:** Junior Instructor (Non-Tech), English
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [mahimpervez88@gmail.com](mailto:mahimpervez88@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** 01924203256
+**Phone (Home):** 01924203256
+**Mobile:** 01924203256
+
+11
+**Name:** Prodyut Mondal
+**Designation:** Junior Instructor (Non-Tech), Accounting
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [prodyut.emon002@gmail.com](mailto:prodyut.emon002@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** 01917947166
+**Phone (Home):** 01917947166
+**Mobile:** 01917947166
+
+12
+**Name:** Md. Foysal Islam
+**Designation:** Junior Instructor (Non-Tech), Chemistry
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [foysalIslam@gmail.com](mailto:foysalIslam@gmail.com)
+**Batch (BCS):** 38
+**Phone (Office):** 01780247817
+**Phone (Home):** 01780247817
+**Mobile:** 01780247817
+
+13
+**Name:** Md. Mizanur Rahman Chowdhury
+**Designation:** Junior Instructor (Non-Tech), Chemistry
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [mrchowdhuary@yahoo.com](mailto:mrchowdhuary@yahoo.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01914404112
+**Phone (Home):** 01914404112
+**Mobile:** 01914404112
+
+14
+**Name:** Md. Imran Kabir
+**Designation:** Junior Instructor (Non-Tech), Mathematics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [imrankabir2019@gmail.com](mailto:imrankabir2019@gmail.com)
+**Batch (BCS):** 41
+**Phone (Office):** 01778-773384
+**Phone (Home):** 01778-773384
+**Mobile:** 01778-773384
+
+15
+**Name:** Md. Jewel Rana
+**Designation:** Junior Instructor (Non-Tech), Mathematics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [juelmath34@gmail.com](mailto:juelmath34@gmail.com)
+**Batch (BCS):** 41
+**Phone (Office):** 01934266528
+**Phone (Home):** 01934266528
+**Mobile:** 01934266528
+
+16
+**Name:** Ripon Hossain
+**Designation:** Junior Instructor (Non-Tech), Bangla
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [riponhosen40@gmail.com](mailto:riponhosen40@gmail.com)
+**Batch (BCS):** 41
+**Phone (Office):** 01515207901
+**Phone (Home):** 01515207901
+**Mobile:** 01515207901
+
+17
+**Name:** Md. Foysal Ahmed
+**Designation:** Junior Instructor (Non-Tech), Physics
+**Faculty:** Non-Tech
+**Department:** RS (Non-Tech)
+**Email:** [faisal181292@gmail.com](mailto:faisal181292@gmail.com)
+**Batch (BCS):** 0
+**Phone (Office):** 01716421489
+**Phone (Home):** 01716421489
+**Mobile:** 01716421489
+
+
+
+
+Principal:
+Name: Sheikh Mustafizur Rahman
+Designation: Principal, Khulna Polytechnic Institute
+Mobile Number: 01765696900
+Telephone Number: +8802477795024
+
+
+
+
+College Clubs at Khulna Polytechnic Institute
+🔹 BNCC – Bangladesh National Cadet Corps (KPI Unit)
+
+The Bangladesh National Cadet Corps (BNCC) is a national youth organization that trains students in discipline, leadership, and patriotism through military-style activities. The KPI Unit serves as a branch of this national force, allowing students of Khulna Polytechnic Institute to participate in drills, parades, leadership training, and community service.
+📩 Contact: https://web.facebook.com/kpibncc
+
+🔹 Rovers & Scouts – KPI Unit
+
+The Scouts and Rovers Movement is a global youth program focused on skill development, social service, and character building. The Rovers & Scouts Unit at KPI is a local branch of this worldwide organization, engaging students in camping, community volunteering, disaster response, and moral development activities.
+
+🔹 Red Crescent Society – KPI Unit
+
+The Bangladesh Red Crescent Society is part of the global Red Cross & Red Crescent humanitarian network. The KPI Branch actively participates in blood donation campaigns, disaster relief operations, first aid training, and social welfare activities. It plays a vital role in serving both the campus and the wider community.
+
+🔹 Rangers – KPI Unit
+
+The Rangers are the advanced wing of the Girl Guides/Scouting movement, designed for young women to develop leadership, social responsibility, and life skills. The KPI Rangers Unit empowers female students through community service, cultural events, training programs, and leadership-building initiatives, connecting them with the national and international Ranger movement.
+
+🔹 ICT Training Cell – KPI Unit
+
+The ICT Training Cell at KPI is a specialized branch focused on building students’ digital and technological skills. As part of the broader national ICT education initiative, this unit trains students in computer literacy, software applications, and technical skills that prepare them for the modern job market and technological innovations.
+
+🔹 CODE KPI
+
+📩 Contact:
+
+Facebook Page ":https://web.facebook.com/Codekpi
+
+Official Website : https://www.codekpi.club
+
+About CODE KPI
+CODE KPI is a programming and technology club founded and run by students of Khulna Polytechnic Institute (KPI). The club focuses on teaching coding, problem-solving, and modern tech skills to students across all departments.
+
+Latest News – Upcoming Workshop on Artificial Intelligence
+CODE KPI, in collaboration with the Principal of KPI, is launching a new Advanced AI Workshop at the beginning of the upcoming semester.
+
+This workshop will be open to all students from every department. Participants will get the opportunity to:
+
+Learn and explore advanced AI tools such as ChatGPT, Grok, Claude, and Gemini.
+
+Discover how to use AI for creating videos, writing articles, developing websites, and much more.
+
+Such initiatives are highly commendable as they prepare students to stay ahead in the fast-changing digital era. Workshops like this not only build technical expertise but also enable students to keep pace with the modern world and its innovations.
+
+✨ Special thanks to CODE KPI for taking this remarkable step forward!
+
+
+
+BookList of all departments : 
+
+Civil :-
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25811	Social Science
+25911	Mathematics -I
+25913	Chemistry
+26411	Civil Engineering Metarials
+26711	Basic Electricity
+
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25812	Physical Education & Life Skills Development
+25912	Physics -I
+25921	Mathematics-II
+26421	Civil Engineering Drawing
+26811	Basic Electronics
+27011	Basic Workshop Practice
+3rd Semester
+Subject Code	Subject Name
+25831	Business Communication
+25922	Physics-II
+25931	Mathematics-III
+26431	Structural Mechanics
+26432	Surveying-I
+26433	Construction Process-I
+26611	Computer Office Application
+4th Semester
+Subject Code	Subject Name
+25841	Accounting
+26441	Construction Process-II
+26442	Estimating & Costing-I
+26443	Civil CAD-I
+26444	Surveying-II
+26445	Geotechnical Engineering
+26446	Hydrology
+26521	Wood Workshop Practice
+5th Semester
+Subject Code	Subject Name
+25852	Industrial Management
+26451	Foundation Engineering
+26452	Civil CAD-II
+26453	Surveying-III
+26454	Theory of Structure
+26455	Water Supply Engineering
+26456	Hydraulics
+6th Semester
+Subject Code	Subject Name
+26461	Water Resources Engineering
+26462	Advance Surveying
+26463	Transportation Engineering-I
+26464	Design of Structure-I
+28863	Steel Structures
+28861	Advanced Construction
+29041	Environmental Studies
+7th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+25853	Innovation & Entrepreneurship
+26471	Civil Engineering Project
+26472	Sanitary Engineering
+26473	Transportation Engineering-II
+26474	Design of Structure-II
+26475	Estimating & Costing-II
+28871	Construction Management & Documentation
+8th Semester
+Subject Code	Subject Name
+26481	Industrial Attachement & Project Presentation
+
+
+Electrical Technology  :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25812	Physical Education & Life Skills Development
+25911	Mathematics -I
+25912	Physics -I
+26711	Basic Electricity
+26712	Electrical Engineering Materials
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25921	Mathematics-II
+25922	Physics-II
+26721	Electrical Circuits-I
+26722	Electrical Engineering Drawing
+26811	Basic Electronics
+3rd Semester
+Subject Code	Subject Name
+25931	Mathematics-III
+25913	Chemistry
+26611	Computer Office Application
+26731	Electrical Circuits-II
+26732	Electrical Appliances
+26833	Industrial Electronics
+4th Semester
+Subject Code	Subject Name
+25811	Social Science
+25841	Accounting
+26741	Electrical Installation,Planning and Estimating
+26742	DC Machine
+26743	Electrical Engineering Project-I
+26845	Digital Electronics
+27044	Applied Mechanics
+5th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+25852	Industrial Management
+26751	Generation of Electrical Power
+26752	Electrical & Electronic Measurements-I
+26753	Testing and Maintannance of Electrical Equipments
+26754	Electrical Engineering Project-II
+26853	Microprocessor & Microcontroller
+6th Semester
+Subject Code	Subject Name
+26667	Progamming in C
+26761	AC Machine-I
+26762	Transmission and Distribution of Eectrical Power-I
+26763	Electrical & Electronic Measurements-II
+26842	Communication Engineering
+29041	Environmental Studies
+7th Semester
+Subject Code	Subject Name
+25831	Business Communication
+25853	Innovation & Entrepreneurship
+26771	AC Machine-II
+26772	Transmission and Distribution of Ellectrical Power-II
+26773	Switch Gear and Protection
+26774	Electrical Engineering Project-III
+26875	Automation Engineering & PLC
+8th Semester
+Subject Code	Subject Name
+26781	Industrial Attachement & Project Presentation
+
+
+Electronics Technology :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25911	Mathematics -I
+25912	Physics -I
+26711	Basic Electricity
+26811	Basic Electronics
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25811	Social Science
+25812	Physical Education & Life Skills Development
+25921	Mathematics-II
+25922	Physics-II
+26721	Electrical Circuits-I
+26821	Electronic Devices and Circuits
+3rd Semester
+Subject Code	Subject Name
+25913	Chemistry
+25931	Mathematics-III
+26611	Computer Office Application
+26731	Electrical Circuits-II
+26831	Digital Electronics-I
+26832	Power Electronics
+4th Semester
+Subject Code	Subject Name
+25841	Accounting
+26741	Electrical Installation,Planning and Estimating
+26742	DC Machine
+26841	Digital Electronics-II
+26842	Communication Engineering
+26843	Networks, Filters and Transmission lines
+26844	Electronic servicing
+5th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+25852	Industrial Management
+26667	Progamming in C
+26751	Generation of Electrical Power
+26752	Electrical & Electronic Measurements-I
+26851	Television Engineering
+26852	Electronic Appliancs
+28654	Bio-Medical Instruments
+6th Semester
+Subject Code	Subject Name
+26761	AC Machine-I
+26762	Transmission and Distribution of Eectrical Power-I
+26763	Electrical & Electronic Measurements-II
+26861	TV Studio and Broadcastig
+26862	Microcontroller and Embedded System
+26863	PCB Design and Prototyping
+29041	Environmental Studies
+7th Semester
+Subject Code	Subject Name
+25831	Business Communication
+25853	Innovation & Entrepreneurship
+26771	AC Machine-II
+26772	Transmission and Distribution of Ellectrical Power-II
+26871	Microwave Radar and Navigation Aids
+26872	Industrial Automation and PLC
+26873	Control System and Robotics
+26874	Electronic Project
+8th Semester
+Subject Code	Subject Name
+26881	Industrial Attachement & Project Presentation
+
+
+Mechanical Technology :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25812	Physical Education & Life Skills Development
+25911	Mathematics -I
+25912	Physics -I
+27011	Basic Workshop Practice
+27012	Machine Shop Practice I
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25921	Mathematics-II
+25922	Physics-II
+26711	Basic Electricity
+27021	Mechanical Engineering Drawing
+27022	Mechanical Engineering Materials
+3rd Semester
+Subject Code	Subject Name
+25811	Social Science
+25831	Business Communication
+25913	Chemistry
+25931	Mathematics-III
+26611	Computer Office Application
+27031	Machine Shop Practice II
+27231	RAC Cycles & Components
+4th Semester
+Subject Code	Subject Name
+25841	Accounting
+26811	Basic Electronics
+27041	Engineering Mechanics
+27042	Machine Shop Practice III
+27043	Metallurgy
+27131	Engineering Thermodynamics
+29041	Environmental Studies
+5th Semester
+Subject Code	Subject Name
+25852	Industrial Management
+26667	Progamming in C
+27051	Fluid Mechanics & Machineries
+27052	Mechanical Estimating & Costing
+27053	Advanced Welding-I
+27054	Foundry & Pattern Making
+27055	Manufacturing Process
+6th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+26211	Automobile Fundamentals
+27061	Strength of Materials
+27062	Mechanical Measurement & Metrology
+27063	CAD & CAM
+27064	Advanced Welding-II
+27065	Plant Engineering & Maintainance
+7th Semester
+Subject Code	Subject Name
+25853	Innovation & Entrepreneurship
+27071	Design of Machine Elements
+27072	Tool Design
+27073	Heat Treatment of Metal
+27074	Mechanical Engineering Project
+27075	Production Planning & Control
+29231	Mechatronics & PLC
+8th Semester
+Subject Code	Subject Name
+27081	Industrial Attachement & Project Presentation
+
+
+Power Technology :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25811	Social Science
+25812	Physical Education & Life Skills Development
+25911	Mathematics -I
+25912	Physics -I
+27111	Power Engineering Fundmental
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25921	Mathematics-II
+25922	Physics-II
+26611	Computer Office Application
+26711	Basic Electricity
+27011	Basic Workshop Practice
+27121	Power Equipment Management & Safety
+3rd Semester
+Subject Code	Subject Name
+25913	Chemistry
+25931	Mathematics-III
+26811	Basic Electronics
+27012	Machine Shop Practice I
+27131	Engineering Thermodynamics
+27231	RAC Cycles & Components
+4th Semester
+Subject Code	Subject Name
+25841	Accounting
+26667	Progamming in C
+27041	Engineering Mechanics
+27043	Metallurgy
+27141	IC Engine Details
+27142	Fuels & Lubricants
+27143	Boiler Operation & Maintenance
+5th Semester
+Subject Code	Subject Name
+25831	Business Communication
+25852	Industrial Management
+26241	Automotive Body Building
+27051	Fluid Mechanics & Machineries
+27053	Advanced Welding-I
+27151	Fundamental of Hybride & Electric Vehicle
+27152	Power Plant Enginnering
+6th Semester
+Subject Code	Subject Name
+26764	Transmission and Distribution of Electrical Power
+27061	Strength of Materials
+27062	Mechanical Measurement & Metrology
+27065	Plant Engineering & Maintainance
+27161	Engine Overhauling, Inspection & Testing
+29041	Environmental Studies
+7th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+25853	Innovation & Entrepreneurship
+27071	Design of Machine Elements
+27073	Heat Treatment of Metal
+27171	Service Station Operation & Estimating
+27172	Automotive Electricity, Electronics & Comunication System
+27173	Power Engineering Project
+8th Semester
+Subject Code	Subject Name
+27181	Industrial Attachement & Project Presentation
+
+
+
+RAC Technology :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25811	Social Science
+25911	Mathematics -I
+25912	Physics -I
+27011	Basic Workshop Practice
+27211	RAC Fundamental
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25812	Physical Education & Life Skills Development
+25921	Mathematics-II
+25922	Physics-II
+26711	Basic Electricity
+27021	Mechanical Engineering Drawing
+27022	Mechanical Engineering Materials
+3rd Semester
+Subject Code	Subject Name
+25831	Business Communication
+25913	Chemistry
+25931	Mathematics-III
+26211	Automobile Fundamentals
+26811	Basic Electronics
+27131	Engineering Thermodynamics
+27231	RAC Cycles & Components
+4th Semester
+Subject Code	Subject Name
+25841	Accounting
+26611	Computer Office Application
+27012	Machine Shop Practice I
+27041	Engineering Mechanics
+27241	Circuits and Electrical Machine in RAC
+27242	Transport RAC
+29041	Environmental Studies
+5th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+26667	Progamming in C
+27043	Metallurgy
+27051	Fluid Mechanics & Machineries
+27052	Mechanical Estimating & Costing
+27251	HVAC
+27252	Commercial & Industrial RAC
+6th Semester
+Subject Code	Subject Name
+25852	Industrial Management
+27055	Manufacturing Process
+27061	Strength of Materials
+27063	CAD & CAM
+27065	Plant Engineering & Maintainance
+27261	Cooling &Heating Load Calculation
+27262	RAC Plant Installation Maintenance & Operation
+7th Semester
+Subject Code	Subject Name
+25853	Innovation & Entrepreneurship
+27075	Production Planning & Control
+27271	RAC System Analysis
+27272	RAC Project
+27273	Advance RAC
+27274	RAC for Food Preservation
+29231	Mechatronics & PLC
+8th Semester
+Subject Code	Subject Name
+27081	Industrial Attachement & Project Presentation
+
+
+Computer Science & Technology :
+
+1st Semester
+Subject Code	Subject Name
+21011	Engineering Drawing
+25711	Bangla-I
+25712	English-I
+25911	Mathematics -I
+25912	Physics -I
+26611	Computer Office Application
+26711	Basic Electricity
+2nd Semester
+Subject Code	Subject Name
+25721	Bangla -II
+25722	English-II
+25812	Physical Education & Life Skills Development
+25921	Mathematics-II
+25922	Physics-II
+26621	Python Programming
+26622	Computer Graphics Design-I
+26811	Basic Electronics
+3rd Semester
+Subject Code	Subject Name
+25811	Social Science
+25913	Chemistry
+25931	Mathematics-III
+26631	Application Development Using Python
+26632	Computer Graphics Design-II
+26633	IT Support Services
+26831	Digital Electronics-I
+4th Semester
+Subject Code	Subject Name
+25831	Business Communication
+26641	Java Programming
+26642	Data Structure & Algorithm
+26643	Computer Peripherals & Interfacing
+26644	Web Design & Development-I
+26841	Digital Electronics-II
+29041	Environmental Studies
+5th Semester
+Subject Code	Subject Name
+25841	Accounting
+26651	Application Development Using Java
+26652	Web Design & Development-II
+26653	Computer Architecture & Microprocessor
+26654	Data Communication
+26655	Operating System
+26656	Project Work-I
+6th Semester
+Subject Code	Subject Name
+25851	Principles of Marketing
+25852	Industrial Management
+26661	Database Management System
+26662	Copmputer Networking
+26663	Sensor & IOT System
+26664	Microcontroller Based System Design & Development
+26665	Surveillance Security System
+26666	Web Development Project
+7th Semester
+Subject Code	Subject Name
+25853	Innovation & Entrepreneurship
+26671	Digital Marketing Technique
+26672	Network Administration & Services
+26673	Cyber Security & Ethics
+26674	Apps Development Project
+26675	Multimedia & Animation
+26676	Project Work-II
+8th Semester
+Subject Code	Subject Name
+29081	Industrial Attachement & Project Presentation
+
+
+
+
+
+
+
+CLass Captains :
+
+All Captains : 
+
+
+Name : Riazul Islam Rafid
+Semester : 1 st
+Shift: 2nd
+Department : Civil
+Group : A
+FB ID :https://www.facebook.com/share/1EFHPY4Ghm/
+Phone Number: 01855643301
+
+
+Name  :Abul hasan 
+Semester :5th
+Shift:1st
+Department :civil
+Group :A
+FB ID :HR Abul Hasan
+Phone Number:01834985831
+
+
+Name  : MD . Mehedi Hasan 
+Semester : 1st 
+Shift : 2nd 
+Department : Mechanical technology 
+Group : B
+FB ID :https://www.facebook.com/share/1HBtnQPaUa/
+Phone Number : 01855818326
+
+Name:Md.Syed Al Shaf
+Semester:5th
+Shift:1st
+Department :Civil 
+Group :A
+FB ID:Md Syed Al Shaf
+Phone Number :01750454193
+
+
+Name  : Mirazul Islam Miraz
+Semester : 5th
+Shift: 1st
+Department : Civil
+Group : B
+FB ID : https://www.facebook.com/share/1EPzYVDLze/
+Phone Number: 01717753337
+
+
+Name : Rakibul Islam 
+Semester : 7th
+Shift: 1st
+Department : CST
+FB ID : https://www.facebook.com/rakibul223588?mibextid=wwXIfr&mibextid=wwXIfr
+Phone Number: 01871639104
+
+
+Name  : Md Hamim Molla
+Semester :3rd
+Shift :2nd
+Department :MT
+Group :A
+FB ID : https://www.facebook.com/mohammadhamim2005?mibextid=ZbWKwL
+Phone Number :01861183680
+
+
+
+Name  :- Md.Shakil Alam
+Semester : 7th
+Shift: 2nd
+Department : Power Technology 
+FB ID :- https://www.facebook.com/share/1BLDwfnbDK/
+Phone Number : 01617771676
+
+
+
+Name  - Mostafizur Rahman 
+Semester -7ht
+Shift- 2nd
+Department -Civil 
+Group -A
+FB ID - https://www.facebook.com/share/1JhTgLnoJd/
+Phone Number- 01729438793
+
+
+Name: Md sazim Bhuiyan 
+Semester: 1st
+Shift: 2nd
+Department : power technology 
+Group: _
+Phone number : 01789354737
+Fb id:https://www.facebook.com/sajimkhan.sajimkhan.50
+
+
+Name : Famim Farhaz
+Semester: 1st
+Shift : 2nd
+Department: Civil 
+Group : C
+FB ID : https://web.facebook.com/famimfarhaz
+Phone NUmber : 01843728903
+Email : famimfarhaz@gmail.com
+
+
+Name : Tasfiya Jahan Reshmi
+Semester : 1st
+Shift  : 1st
+Department : CST
+Group  : ----
+FB ID : https://www.facebook.com/tasfiya.jahan.reshmi
+Phone Number  :01627632519
+
+
+Name  : Deloar Rahman 
+Semester : 7th 
+Shift : 1st
+Department : Mechanical
+Group : A
+Phone Number : 01873511443 
+Fb Id : https://www.facebook.com/share/19jU83ZQRW/?mibextid=wwXIfr
+
+Name  : Waliur Hassan Sheshir
+Semester : 5th
+Shift  : 1st Shift
+Department :Computer Science And Technology
+Group : ---
+Phone Number: 01740682610
+FB ID : https://www.facebook.com/md.waliur.hassan.sheshir
+
+
+Name  : Nafis Ahmed Khan Aman 
+Semester : 1st
+Shift : 1st
+Department : Power Technology 
+Group : ---
+FB ID : https://web.facebook.com/abrar.aman.2024
+Phone Number : 01762814758
+
+
+Name :SK. Jubair Hossain (Noman)
+Semester :7th
+Shift:1st
+Department :Civil
+Group :B
+Phone Number:01798537269
+Fb id: https://www.facebook.com/share/1Ca48MqhX1/
+
+
+Name:  MD.Zihad Hassan
+Semester :5th
+Shift:2nd
+Department : civil 
+Group:B
+FB ID :https://www.facebook.com/mdzihad.hassan.568294
+Phone Number:01892100636
+
+
+
+Name: Md Sabbir Islam   
+Semester : 7th
+Shift: 2nd
+Department : Mechanical
+Group : A
+Phone Number: 01774097459
+FB ID: https://www.facebook.com/share/19U5nypGsh/
+
+
+Name  : MD Asif Hossain Sohag 
+Semester : 1 st
+Shift  :  1 st 
+Department : POWER 
+Group : - 
+FB ID :https://www.facebook.com/share/1FordyJ8uo/
+phone Number  : 01799-259839
+
+
+Name : Samium Basir Saif
+Semester : 1 st
+Shift: 1st
+Department : Civil
+Group : A
+FB ID :https://www.facebook.com/S.aiF0017
+Phone Number: 01885727023
+
+
+Name: Abul hasan 
+Semester : 5th
+Shift: 1st
+Department: civil
+Group : A
+FB ID : https://www.facebook.com/share/16scwziJ6n/
+Phone Number:01834985831
+
+Name  :Syed Md Rahmatullah
+Semester :5th
+Shift:1st
+Department :civil
+Group :B
+FB ID :https://www.facebook.com/share/15tPfRtqfU/
+
+
+Name  : Md Rakibul Islam 
+Semester :5 th 
+Shift: morning
+Department : RAC
+Group : ---
+FB ID : https://www.facebook.com/share/14LVi3vPwzP/
+Phone Number: 01576956412
+
+
+Name   : Abu Salaba Nayeem 
+Semester  :1st
+Shift : 1st
+Department  : Electrical 
+Group  : C
+FB ID  : https://www.facebook.com/share/17G29xy77K/
+Phone Number : 01402190350
+
+
+Name : Abdur Rahman Rahad 
+Semester : 1st
+Shift : 2nd
+Department : RAC
+Group :No
+FB ID : https://www.facebook.com/share/1AZyCMxWqV/
+Phone Number : 01627720567
+
+
+Name :Md.Rahatul islam
+Semester : 3rd
+Shift : 2nd
+Department : MT
+Group: B
+FB ID: https://www.facebook.com/share/19EjwWWCQj/?mibextid=wwXIfr
+Phone Number : 01319816300
+
+
+Name : MD Tanvir Islam
+Semester : 1 st
+Shift: 7th
+Department : Electrical 
+Group : B
+FB ID :https://www.facebook.com/share/172pGS6HgY/
+Phone Number: 01731548559
+
+
+Name : MD Mehedi Hasan 
+Semester : 5th
+Shift: 1st
+Department : Electrical 
+Group : A
+FB ID :https://www.facebook.com/share/1G5Jsj5Myp/
+Phone Number: 01642710499
+
+
+Name : MD. Sakibul Hasan 
+Semester : 1st
+Shift : 1st
+Department : Electrical 
+Group : C
+FB ID : https://www.facebook.com/share/16p34n8CS3/
+Phone Number : 01881085107
+
+
+Name : Khan Rifad Hossain  
+Semester : 7 th
+Shift : 1st
+Department : CST
+FB ID: https://www.facebook.com/share/177GAZYMnf/
+Phone Number : 01834513325
+
+Name :  Md meraj mia 
+Semester : 1st semester 
+Shift : 1st
+department : Computer
+group : --
+FB ID : https://www.facebook.com/share/1JJoNW4ET7/
+Phone Number : 01763712863
+
+Name  : Md Hamim Molla
+Semester :3rd
+Shift :2nd
+Department :MT
+Group :A
+FB ID : https://www.facebook.com/mohammadhamim2005?mibextid=ZbWKwL
+Phone Number :01861183680
+
+
+Name  Abir Mahmud 
+Semester 3rd 
+Shift 2nd
+Department power technology 
+Group 
+FB ID https://www.facebook.com/4B1R.567
+Phone Number 01581812960
+
+Name :Md Akhirul Islam(Asif)
+Semester:3rd
+Shift:2nd
+Department:Mechanical
+Group:B
+FB ID:https://www.facebook.com/share/1713far2RM/
+Phone Number:01760-471548
+
+Name  : Mirazul Islam Miraz
+Semester : 5th
+Shift: 1st
+Department : Civil
+Group : B
+FB ID : https://www.facebook.com/share/1EPzYVDLze/
+Phone Number: 01717753337
+
+
+Name  : Anowar Shikat
+Semester :1st
+Shift : 2nd
+Department : computer 
+Group :
+FB ID : https://www.facebook.com/siifu99
+Phone Number :   01996194522
+
+
+Name  : Eyarul islam 
+Semester :5 th
+Shift : morning 
+Department : civil
+Group :A
+Phone number :01305548608
+FB ID :https://www.facebook.com/share/1d36yao82W/
+
+
+Name  : Sujan Biswas
+Semester  3rd
+Shift : 1st
+Department : Electronics 
+Group :
+FB id : https://www.facebook.com/share/14Je7ERtT3X/
+Phone Number :   01305724179
+
+
+Name  : Mehedi Hasan 
+Semester :7th
+Shift :2nd
+Department :CT
+Group :B
+FB ID : https://www.facebook.com/share/1GS7dmNzeG/
+Phone Number :01687432200
+
+Name : Md Rahat Khan 
+Semester : 5th
+Shift : 2nd
+Department : Civil 
+Group : B
+Phone Number : 01931026768
+FB ID : https://www.facebook.com/call.me.rahat736830?mibextid=ZbWKwL
+
+
+Name  : Deloar Rahman 
+Semester : 7 th 
+Shift : 1 st
+Department : Mechanical
+Group :A
+Phone Number : 01873511443 
+Fb Id : https://www.facebook.com/share/19jU83ZQRW/?mibextid=wwXIfr
+
+Name  : Sayem Khan 
+Semester : 5 th 
+Shift : 2 nd
+Department : Mechanical
+Group :
+Phone Number : 01405841596
+Fb Id : https://www.facebook.com/mdsayem.khan.790693
+
+
+Name  : Md Arifujjaman Shishir
+Semester : 7th
+Shift : 1st
+Department : CT
+Group :A
+FB ID : https://www.facebook.com/share/16vtzYNY6C/
+Phone Number : 01745873820
+
+
+Name : Sk.Al Muzahid Hosen Siyam
+Semester : 5th
+Shift : 2nd
+Department : Mechanical  
+FB ID : https://web.facebook.com/sk.muzahid.852627
+Phone Number : 01986363293
+
+
+Name  : MD.TAHMID HASAN
+Semester :5 th
+Shift : Day
+Department : Electrical 
+Group :B
+Phone number :01319315708
+FB ID :https://www.facebook.com/share/1CbDSJZjpq/
+
+
+
+Name  : Md. Mahfuz hasan
+Semester : 5 th 
+Shift : 2 nd
+Department : Mechanical
+Group : 
+Phone Number : 01327905154
+Fb Id : https://www.facebook.com/share/16qTavwJzd/
+
+
+Name  : Dollar Mahmud 
+Semester :5 th
+Shift : Day
+Department : Electrical 
+Group :A
+Phone number :01943635300
+FB ID :https://www.facebook.com/share/1CJurToMDY/
+
+
+Name : Sk Mashrafi Rahman
+Semester : 7th
+Shift: 2nd
+Department: Computer Science & Technology
+Group : No group
+FB ID : https://www.facebook.com/share/19HgVSV1rT/
+Phone Number: 01829-137490
+
+
+Name : Md tamjid hasan 
+Semester : 3rd 
+Shift : 2nd
+Department : Civil 
+Group : A
+Phone Number : 01741955222
+FB ID : https://web.facebook.com/mdmitul.mitul.7121
+
+Name           : Mehady Hesan 
+Semester      : 1st
+Shift.            : 2nd
+Department : CST
+Group          : ---
+FB ID          : https://www.facebook.com/share/19t1rwqEXR/
+Phone Number : 01880858928
+
+
+
+Name  :Syed Tahsin Hossain 
+Semester :1st 
+Shift :2nd 
+Department :Electronics 
+Group :A
+FB ID : 
+Phonhttps://www.facebook.com/share/1AErTp6op4/e 
+Number :01537465471
+
+
+Name :  Sheikh Furkan 
+Semester : 5th
+Shift: 1st
+ Department: Power
+Group : No group
+FB ID : https://www.facebook.com/share/1AKoF8fZi9/ 
+Phone Number: 01979173365
+
+
+
+Name :Rahon Bala
+Semister  :5th
+Sift :2nd
+Department: Civil
+Grup  : A
+FB ID :https://www.facebook.com/share/16ysuvCLnY/
+
+
+
+Name -: Md. Suzon Eva 
+Semester-: 2nd
+Shift-: 1st
+Department-: RAC 
+Group-: ---
+FB ID-: https://www.facebook.com/suzon.suzon.742248
+Phone Number-: 01867048450
+
+
+Name  : Md Rakibul Islam 
+Semester :5 th 
+Shift: morning
+Department : RAC
+Group : ---
+FB ID : https://www.facebook.com/share/14LVi3vPwzP/
+Phone Number: 01576956412
+
+
+
+Name   : Abu Salaba Nayeem 
+Semester  :1st
+Shift : 1st
+Department  : Electrical 
+Group  : C
+FB ID  : https://www.facebook.com/share/17G29xy77K/
+Phone Number : 01402190350
+
+
+
+Name: Salauddin Rahman 
+Semester:5th
+Department: Electrical 
+Shift:Day
+Group:B
+Phone number: 01942132297
+Fb I'd: https://www.facebook.com/share/1HgqwaYhMU/
+
+
+Name: Zihad hossen  
+Semester: 3rd
+Shift: 2nd
+Department: Civil
+Group: B 
+FB ID: https://www.facebook.com/share/16r9psyNtn/
+Phone Number: 01857082356
+
+
+
+Name : MD Mehedi Hasan 
+Semester : 5th
+Shift: 1st
+Department : Electrical 
+Group : A
+FB ID :https://www.facebook.com/share/1G5Jsj5Myp/
+Phone Number: 01642710499
+
+
+
+Name : Sheikh Ahnaf Ishrak  
+Semester :3rd
+Shift : 1st
+Department : Mechanical
+Group :B
+FB ID :https://www.facebook.com/share/19HVbcH3rj/
+Phone Number : 01875264781
+
+
+
+Sk Jasin Ahmed 
+Semester: 3rd 
+Shift: 1st
+Department : CST
+Group 
+https://www.facebook.com/share/16nqshjh3x/
+Phone Number 01970669644
+
+
+
+Name           : Mamnun Khalifa (Alvi)
+Semester      : 1st
+Shift.            : 2nd
+Department : MT
+Group          : A
+FB ID          : https://www.facebook.com/share/16peqbWC4P/
+Phone Number : 01341962683
+
+
+
+Name: Jubayer Halder 
+Semester: 3rd
+Shift: 1st
+Department: Civil
+Group: B
+Fd ID:https://www.facebook.com/share/15kvWPmGBy/
+Phone number: 01931570883
+
+
+
+Name : Md Nazim Sk
+Semester : 5th
+Shift : 2nd
+Department : Power
+Group : ---
+FB ID :	https://www.facebook.com/share/1B23SSptKY/
+Phone Number : 01560011304
+
+
+
+Name : Mir Tasin Ahmed
+Semester : 3rd
+Shift: 2nd
+Department:Computer Science & Technology
+Group : No group
+FB ID :  https://www.facebook.com/share/16q4geups9/
+Phone Number: 01717358082
+
+
+
+Name :Shawon Hossen
+Semester:7th
+Shift:1st
+Department:Electrical
+Group:A
+FB ID :https://www.facebook.com/share/1Cj1hDw2GH/
+Phone Number:01307584742
+
+
+
+
+[Last Update : 20th August, 2025]
+
+
+
+
+KPI GPT Creator
+Creator Name: Famim Farhaz
+
+👤 Developer Information
+Full Name: Famim Farhaz
+
+Phone: 01843-728903
+
+Email: famimfarhaz@gmail.com
+
+Facebook: @famimfarhaz
+
+Instagram: @famimfarhaz
+
+Features of KPI GPT
+Department Info Access – Answers queries about all departments, teachers, and labs.
+
+Routine Lookup – Provides daily and semester-wise class schedules.
+
+Notice Board AI – Retrieves recent notices from all KPI departments.
+
+Teacher & Staff Database – Searchable profiles with contact details and responsibilities.
+
+Student Records – Sample student information for testing queries.
+
+📖 Description of KPI GPT
+KPI GPT (v1 Beta) is an AI assistant built specifically for Khulna Polytechnic Institute to answer institute-related queries.
+It can provide:
+
+Civil Department information
+
+Teacher details
+
+Student records
+
+Class routines
+
+Notices
+
+And more — all sourced from the official institute database.
+
+
+
+
