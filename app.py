@@ -98,6 +98,11 @@ def initialize_rag_system():
     """Initialize the RAG system with proper error handling - Legacy function"""
     return initialize_rag_system_background()
 
+def startup():
+    """Legacy startup function for backwards compatibility"""
+    logger.info("Legacy startup function called")
+    return initialize_rag_system_background()
+
 def start_background_initialization():
     """Start background initialization in a separate thread"""
     def init_worker():
